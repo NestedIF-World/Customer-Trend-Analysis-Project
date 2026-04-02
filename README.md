@@ -73,7 +73,7 @@ This project demonstrates how integrating multiple tools can help perform **real
 
 ## 📷 Dashboard Preview
 <p align="center">
-  <img src="snapshot.png" 
+  <img src="Snapshot.png" 
 </p>
 
 ---
