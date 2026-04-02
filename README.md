@@ -79,11 +79,14 @@ This project demonstrates how integrating multiple tools can help perform **real
 ---
 
 ## 📁 Repository Structure
-├── data/ # Dataset files
-├── python/ # Data cleaning & analysis scripts
-├── sql/ # SQL queries
-├── powerbi/ # Power BI dashboard file (.pbix)
+```
+.
+├── data/        # Dataset files
+├── python/      # Data cleaning & analysis scripts
+├── sql/         # SQL queries
+├── powerbi/     # Power BI dashboard file (.pbix)
 └── README.md
+```
 
 ---
 
